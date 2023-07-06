@@ -1,7 +1,9 @@
 # OOP-Project
 **For more details about the project:** 
 
-[Project Reports 1](https://github.com/AyseAyhan/OOP-Project/blob/679670c9a581535994f7d35400fd9977b12439a1/2022Guz_NTP1_Donem_Projesi_1nci_asama_v1_0_EK1.pdf)
+[Project Reports 1](https://github.com/AyseAyhan/OOP-Project/blob/80b583d88f621ec57f95d3eab630fc76dc0e8314/2022Guz_NTP1_Donem_Projesi_1nci_asama_v1_0.pdf)
+
+[Project Reports 1-Addition](https://github.com/AyseAyhan/OOP-Project/blob/679670c9a581535994f7d35400fd9977b12439a1/2022Guz_NTP1_Donem_Projesi_1nci_asama_v1_0_EK1.pdf)
 
 [Project Reports 2](https://github.com/AyseAyhan/OOP-Project/blob/679670c9a581535994f7d35400fd9977b12439a1/2022Guz_NTP1_Donem_Projesi_2nci_asama_v1_0.pdf)
 
