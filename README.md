@@ -1,4 +1,9 @@
 # OOP-Project
+**For more details about the project:** 
+[Project Reports 1](https://github.com/AyseAyhan/OOP-Project/blob/679670c9a581535994f7d35400fd9977b12439a1/2022Guz_NTP1_Donem_Projesi_1nci_asama_v1_0_EK1.pdf)
+
+[Project Reports 2](https://github.com/AyseAyhan/OOP-Project/blob/679670c9a581535994f7d35400fd9977b12439a1/2022Guz_NTP1_Donem_Projesi_2nci_asama_v1_0.pdf)
+
 # OOP-Project
 Project Description:
 The scope of the project covers the creation of 3D grid-based maps with point clouds (Point Cloud) and point clouds provided by depth sensors. The depth camera, pictured in Figure 1, provides depth information as well as colored pixel values in the field of view. The 3D depth information obtained is expressed with 3D points defined according to the camera. The set of points formed by these points is called a point cloud. Figure 1 shows the representation of the point cloud obtained from a rabbit surface.
